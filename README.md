@@ -22,3 +22,5 @@ npm run dev
 ```bash
 npm run test
 ```
+
+Demo test: https://mini-seller-phi.vercel.app/
