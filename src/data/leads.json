@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Johnson",
+    "company": "Acme Corp",
+    "email": "alice.johnson@acme.com",
+    "source": "Website",
+    "score": 87,
+    "status": "New"
+  },
+  {
+    "id": "2",
+    "name": "Bob Smith",
+    "company": "Globex Inc",
+    "email": "bob.smith@globex.com",
+    "source": "Referral",
+    "score": 75,
+    "status": "Contacted"
+  },
+  {
+    "id": "3",
+    "name": "Carol Lee",
+    "company": "Initech",
+    "email": "carol.lee@initech.com",
+    "source": "Conference",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": "4",
+    "name": "David Brown",
+    "company": "Umbrella Co",
+    "email": "david.brown@umbrella.com",
+    "source": "Website",
+    "score": 64,
+    "status": "Lost"
+  },
+  {
+    "id": "5",
+    "name": "Evelyn Davis",
+    "company": "Soylent Corp",
+    "email": "evelyn.davis@soylent.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "New"
+  },
+  {
+    "id": "6",
+    "name": "Frank Wilson",
+    "company": "Hooli",
+    "email": "frank.wilson@hooli.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "7",
+    "name": "Grace Thompson",
+    "company": "Stark Industries",
+    "email": "grace.thompson@stark.com",
+    "source": "Conference",
+    "score": 78,
+    "status": "Qualified"
+  },
+  {
+    "id": "8",
+    "name": "Henry Martinez",
+    "company": "Wayne Enterprises",
+    "email": "henry.martinez@wayne.com",
+    "source": "Referral",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "9",
+    "name": "Isabella Garcia",
+    "company": "Oscorp",
+    "email": "isabella.garcia@oscorp.com",
+    "source": "Website",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "10",
+    "name": "Jack Miller",
+    "company": "Tyrell Corp",
+    "email": "jack.miller@tyrell.com",
+    "source": "Conference",
+    "score": 95,
+    "status": "Qualified"
+  },
+  {
+    "id": "11",
+    "name": "Karen White",
+    "company": "Cyberdyne",
+    "email": "karen.white@cyberdyne.com",
+    "source": "Referral",
+    "score": 72,
+    "status": "New"
+  },
+  {
+    "id": "12",
+    "name": "Liam Harris",
+    "company": "Vandelay Industries",
+    "email": "liam.harris@vandelay.com",
+    "source": "Website",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "13",
+    "name": "Mia Clark",
+    "company": "Wonka Industries",
+    "email": "mia.clark@wonka.com",
+    "source": "Conference",
+    "score": 67,
+    "status": "New"
+  },
+  {
+    "id": "14",
+    "name": "Noah Lewis",
+    "company": "Soylent Corp",
+    "email": "noah.lewis@soylent.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "Qualified"
+  },
+  {
+    "id": "15",
+    "name": "Olivia Walker",
+    "company": "Globex Inc",
+    "email": "olivia.walker@globex.com",
+    "source": "Website",
+    "score": 91,
+    "status": "New"
+  },
+  {
+    "id": "16",
+    "name": "Paul Hall",
+    "company": "Acme Corp",
+    "email": "paul.hall@acme.com",
+    "source": "Conference",
+    "score": 76,
+    "status": "Contacted"
+  },
+  {
+    "id": "17",
+    "name": "Quinn Allen",
+    "company": "Initech",
+    "email": "quinn.allen@initech.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "Qualified"
+  },
+  {
+    "id": "18",
+    "name": "Rachel Young",
+    "company": "Umbrella Co",
+    "email": "rachel.young@umbrella.com",
+    "source": "Website",
+    "score": 62,
+    "status": "Lost"
+  },
+  {
+    "id": "19",
+    "name": "Sam King",
+    "company": "Hooli",
+    "email": "sam.king@hooli.com",
+    "source": "Conference",
+    "score": 89,
+    "status": "Contacted"
+  },
+  {
+    "id": "20",
+    "name": "Tina Scott",
+    "company": "Stark Industries",
+    "email": "tina.scott@stark.com",
+    "source": "Referral",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": "21",
+    "name": "Uma Roberts",
+    "company": "Wayne Enterprises",
+    "email": "uma.roberts@wayne.com",
+    "source": "Website",
+    "score": 84,
+    "status": "Qualified"
+  },
+  {
+    "id": "22",
+    "name": "Victor Turner",
+    "company": "Oscorp",
+    "email": "victor.turner@oscorp.com",
+    "source": "Conference",
+    "score": 70,
+    "status": "New"
+  },
+  {
+    "id": "23",
+    "name": "Wendy Adams",
+    "company": "Tyrell Corp",
+    "email": "wendy.adams@tyrell.com",
+    "source": "Referral",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": "24",
+    "name": "Xander Baker",
+    "company": "Cyberdyne",
+    "email": "xander.baker@cyberdyne.com",
+    "source": "Website",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": "25",
+    "name": "Yara Carter",
+    "company": "Vandelay Industries",
+    "email": "yara.carter@vandelay.com",
+    "source": "Conference",
+    "score": 86,
+    "status": "Qualified"
+  },
+  {
+    "id": "26",
+    "name": "Zachary Evans",
+    "company": "Wonka Industries",
+    "email": "zachary.evans@wonka.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": "27",
+    "name": "Amy Foster",
+    "company": "Soylent Corp",
+    "email": "amy.foster@soylent.com",
+    "source": "Website",
+    "score": 81,
+    "status": "Contacted"
+  },
+  {
+    "id": "28",
+    "name": "Brian Gray",
+    "company": "Globex Inc",
+    "email": "brian.gray@globex.com",
+    "source": "Conference",
+    "score": 74,
+    "status": "New"
+  },
+  {
+    "id": "29",
+    "name": "Chloe Howard",
+    "company": "Acme Corp",
+    "email": "chloe.howard@acme.com",
+    "source": "Referral",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": "30",
+    "name": "Derek James",
+    "company": "Initech",
+    "email": "derek.james@initech.com",
+    "source": "Website",
+    "score": 65,
+    "status": "Lost"
+  },
+  {
+    "id": "31",
+    "name": "Ella Kelly",
+    "company": "Umbrella Co",
+    "email": "ella.kelly@umbrella.com",
+    "source": "Conference",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "32",
+    "name": "Finn Long",
+    "company": "Hooli",
+    "email": "finn.long@hooli.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "New"
+  },
+  {
+    "id": "33",
+    "name": "Gina Martin",
+    "company": "Stark Industries",
+    "email": "gina.martin@stark.com",
+    "source": "Website",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": "34",
+    "name": "Harry Nelson",
+    "company": "Wayne Enterprises",
+    "email": "harry.nelson@wayne.com",
+    "source": "Conference",
+    "score": 71,
+    "status": "New"
+  },
+  {
+    "id": "35",
+    "name": "Ivy Ortiz",
+    "company": "Oscorp",
+    "email": "ivy.ortiz@oscorp.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "36",
+    "name": "Jake Perry",
+    "company": "Tyrell Corp",
+    "email": "jake.perry@tyrell.com",
+    "source": "Website",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "37",
+    "name": "Kara Quinn",
+    "company": "Cyberdyne",
+    "email": "kara.quinn@cyberdyne.com",
+    "source": "Conference",
+    "score": 87,
+    "status": "Qualified"
+  },
+  {
+    "id": "38",
+    "name": "Leo Reed",
+    "company": "Vandelay Industries",
+    "email": "leo.reed@vandelay.com",
+    "source": "Referral",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "39",
+    "name": "Maya Sanders",
+    "company": "Wonka Industries",
+    "email": "maya.sanders@wonka.com",
+    "source": "Website",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": "40",
+    "name": "Nathan Taylor",
+    "company": "Soylent Corp",
+    "email": "nathan.taylor@soylent.com",
+    "source": "Conference",
+    "score": 66,
+    "status": "New"
+  },
+  {
+    "id": "41",
+    "name": "Olga Upton",
+    "company": "Globex Inc",
+    "email": "olga.upton@globex.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "Qualified"
+  },
+  {
+    "id": "42",
+    "name": "Peter Vaughn",
+    "company": "Acme Corp",
+    "email": "peter.vaughn@acme.com",
+    "source": "Website",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "43",
+    "name": "Quincy Watson",
+    "company": "Initech",
+    "email": "quincy.watson@initech.com",
+    "source": "Conference",
+    "score": 92,
+    "status": "Contacted"
+  },
+  {
+    "id": "44",
+    "name": "Rita Xavier",
+    "company": "Umbrella Co",
+    "email": "rita.xavier@umbrella.com",
+    "source": "Referral",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "45",
+    "name": "Steve Young",
+    "company": "Hooli",
+    "email": "steve.young@hooli.com",
+    "source": "Website",
+    "score": 88,
+    "status": "Qualified"
+  },
+  {
+    "id": "46",
+    "name": "Tara Zimmerman",
+    "company": "Stark Industries",
+    "email": "tara.zimmerman@stark.com",
+    "source": "Conference",
+    "score": 70,
+    "status": "New"
+  },
+  {
+    "id": "47",
+    "name": "Ulysses Allen",
+    "company": "Wayne Enterprises",
+    "email": "ulysses.allen@wayne.com",
+    "source": "Referral",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "48",
+    "name": "Vera Brown",
+    "company": "Oscorp",
+    "email": "vera.brown@oscorp.com",
+    "source": "Website",
+    "score": 65,
+    "status": "New"
+  },
+  {
+    "id": "49",
+    "name": "Will Cooper",
+    "company": "Tyrell Corp",
+    "email": "will.cooper@tyrell.com",
+    "source": "Conference",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "50",
+    "name": "Xena Daniels",
+    "company": "Cyberdyne",
+    "email": "xena.daniels@cyberdyne.com",
+    "source": "Referral",
+    "score": 74,
+    "status": "New"
+  },
+  {
+    "id": "51",
+    "name": "Yvonne Edwards",
+    "company": "Vandelay Industries",
+    "email": "yvonne.edwards@vandelay.com",
+    "source": "Website",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": "52",
+    "name": "Zane Foster",
+    "company": "Wonka Industries",
+    "email": "zane.foster@wonka.com",
+    "source": "Conference",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": "53",
+    "name": "Abby Green",
+    "company": "Soylent Corp",
+    "email": "abby.green@soylent.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "Qualified"
+  },
+  {
+    "id": "54",
+    "name": "Brandon Harris",
+    "company": "Globex Inc",
+    "email": "brandon.harris@globex.com",
+    "source": "Website",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": "55",
+    "name": "Cathy Irving",
+    "company": "Acme Corp",
+    "email": "cathy.irving@acme.com",
+    "source": "Conference",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": "56",
+    "name": "Dylan Jones",
+    "company": "Initech",
+    "email": "dylan.jones@initech.com",
+    "source": "Referral",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": "57",
+    "name": "Emma King",
+    "company": "Umbrella Co",
+    "email": "emma.king@umbrella.com",
+    "source": "Website",
+    "score": 85,
+    "status": "Qualified"
+  },
+  {
+    "id": "58",
+    "name": "Fred Lewis",
+    "company": "Hooli",
+    "email": "fred.lewis@hooli.com",
+    "source": "Conference",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "59",
+    "name": "Gloria Moore",
+    "company": "Stark Industries",
+    "email": "gloria.moore@stark.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "60",
+    "name": "Hank Nelson",
+    "company": "Wayne Enterprises",
+    "email": "hank.nelson@wayne.com",
+    "source": "Website",
+    "score": 71,
+    "status": "New"
+  },
+  {
+    "id": "61",
+    "name": "Irene Owens",
+    "company": "Oscorp",
+    "email": "irene.owens@oscorp.com",
+    "source": "Conference",
+    "score": 87,
+    "status": "Qualified"
+  },
+  {
+    "id": "62",
+    "name": "Jake Peters",
+    "company": "Tyrell Corp",
+    "email": "jake.peters@tyrell.com",
+    "source": "Referral",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "63",
+    "name": "Kylie Quinn",
+    "company": "Cyberdyne",
+    "email": "kylie.quinn@cyberdyne.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "64",
+    "name": "Liam Roberts",
+    "company": "Vandelay Industries",
+    "email": "liam.roberts@vandelay.com",
+    "source": "Conference",
+    "score": 66,
+    "status": "New"
+  },
+  {
+    "id": "65",
+    "name": "Molly Smith",
+    "company": "Wonka Industries",
+    "email": "molly.smith@wonka.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "Qualified"
+  },
+  {
+    "id": "66",
+    "name": "Nathan Thomas",
+    "company": "Soylent Corp",
+    "email": "nathan.thomas@soylent.com",
+    "source": "Website",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "67",
+    "name": "Olivia Underwood",
+    "company": "Globex Inc",
+    "email": "olivia.underwood@globex.com",
+    "source": "Conference",
+    "score": 92,
+    "status": "Contacted"
+  },
+  {
+    "id": "68",
+    "name": "Patrick Vance",
+    "company": "Acme Corp",
+    "email": "patrick.vance@acme.com",
+    "source": "Referral",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "69",
+    "name": "Quinn West",
+    "company": "Initech",
+    "email": "quinn.west@initech.com",
+    "source": "Website",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "70",
+    "name": "Rachel Young",
+    "company": "Umbrella Co",
+    "email": "rachel.young@umbrella.com",
+    "source": "Conference",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": "71",
+    "name": "Sam Zimmer",
+    "company": "Hooli",
+    "email": "sam.zimmer@hooli.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "72",
+    "name": "Tina Adams",
+    "company": "Stark Industries",
+    "email": "tina.adams@stark.com",
+    "source": "Website",
+    "score": 71,
+    "status": "New"
+  },
+  {
+    "id": "73",
+    "name": "Uma Baker",
+    "company": "Wayne Enterprises",
+    "email": "uma.baker@wayne.com",
+    "source": "Conference",
+    "score": 86,
+    "status": "Qualified"
+  },
+  {
+    "id": "74",
+    "name": "Victor Clark",
+    "company": "Oscorp",
+    "email": "victor.clark@oscorp.com",
+    "source": "Referral",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "75",
+    "name": "Wendy Davis",
+    "company": "Tyrell Corp",
+    "email": "wendy.davis@tyrell.com",
+    "source": "Website",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": "76",
+    "name": "Xander Evans",
+    "company": "Cyberdyne",
+    "email": "xander.evans@cyberdyne.com",
+    "source": "Conference",
+    "score": 64,
+    "status": "New"
+  },
+  {
+    "id": "77",
+    "name": "Yara Foster",
+    "company": "Vandelay Industries",
+    "email": "yara.foster@vandelay.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "Qualified"
+  },
+  {
+    "id": "78",
+    "name": "Zachary Green",
+    "company": "Wonka Industries",
+    "email": "zachary.green@wonka.com",
+    "source": "Website",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": "79",
+    "name": "Abby Harris",
+    "company": "Soylent Corp",
+    "email": "abby.harris@soylent.com",
+    "source": "Conference",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "80",
+    "name": "Brian Irving",
+    "company": "Globex Inc",
+    "email": "brian.irving@globex.com",
+    "source": "Referral",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": "81",
+    "name": "Chloe Jones",
+    "company": "Acme Corp",
+    "email": "chloe.jones@acme.com",
+    "source": "Website",
+    "score": 87,
+    "status": "Qualified"
+  },
+  {
+    "id": "82",
+    "name": "Derek King",
+    "company": "Initech",
+    "email": "derek.king@initech.com",
+    "source": "Conference",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "83",
+    "name": "Ella Lewis",
+    "company": "Umbrella Co",
+    "email": "ella.lewis@umbrella.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "84",
+    "name": "Finn Moore",
+    "company": "Hooli",
+    "email": "finn.moore@hooli.com",
+    "source": "Website",
+    "score": 70,
+    "status": "New"
+  },
+  {
+    "id": "85",
+    "name": "Gina Nelson",
+    "company": "Stark Industries",
+    "email": "gina.nelson@stark.com",
+    "source": "Conference",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": "86",
+    "name": "Harry Owens",
+    "company": "Wayne Enterprises",
+    "email": "harry.owens@wayne.com",
+    "source": "Referral",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "87",
+    "name": "Ivy Peters",
+    "company": "Oscorp",
+    "email": "ivy.peters@oscorp.com",
+    "source": "Website",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "88",
+    "name": "Jack Quinn",
+    "company": "Tyrell Corp",
+    "email": "jack.quinn@tyrell.com",
+    "source": "Conference",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "89",
+    "name": "Kara Roberts",
+    "company": "Cyberdyne",
+    "email": "kara.roberts@cyberdyne.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": "90",
+    "name": "Leo Sanders",
+    "company": "Vandelay Industries",
+    "email": "leo.sanders@vandelay.com",
+    "source": "Website",
+    "score": 72,
+    "status": "New"
+  },
+  {
+    "id": "91",
+    "name": "Maya Taylor",
+    "company": "Wonka Industries",
+    "email": "maya.taylor@wonka.com",
+    "source": "Conference",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "92",
+    "name": "Nathan Upton",
+    "company": "Soylent Corp",
+    "email": "nathan.upton@soylent.com",
+    "source": "Referral",
+    "score": 65,
+    "status": "New"
+  },
+  {
+    "id": "93",
+    "name": "Olga Vaughn",
+    "company": "Globex Inc",
+    "email": "olga.vaughn@globex.com",
+    "source": "Website",
+    "score": 84,
+    "status": "Qualified"
+  },
+  {
+    "id": "94",
+    "name": "Peter White",
+    "company": "Acme Corp",
+    "email": "peter.white@acme.com",
+    "source": "Conference",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "95",
+    "name": "Quinn Xavier",
+    "company": "Initech",
+    "email": "quinn.xavier@initech.com",
+    "source": "Referral",
+    "score": 89,
+    "status": "Contacted"
+  },
+  {
+    "id": "96",
+    "name": "Rita Young",
+    "company": "Umbrella Co",
+    "email": "rita.young@umbrella.com",
+    "source": "Website",
+    "score": 67,
+    "status": "New"
+  },
+  {
+    "id": "97",
+    "name": "Steve Zimmer",
+    "company": "Hooli",
+    "email": "steve.zimmer@hooli.com",
+    "source": "Conference",
+    "score": 85,
+    "status": "Qualified"
+  },
+  {
+    "id": "98",
+    "name": "Tina Adams",
+    "company": "Stark Industries",
+    "email": "tina.adams@stark.com",
+    "source": "Referral",
+    "score": 72,
+    "status": "New"
+  },
+  {
+    "id": "99",
+    "name": "Uma Baker",
+    "company": "Wayne Enterprises",
+    "email": "uma.baker@wayne.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "100",
+    "name": "Victor Clark",
+    "company": "Oscorp",
+    "email": "victor.clark@oscorp.com",
+    "source": "Conference",
+    "score": 69,
+    "status": "New"
+  }
+]
