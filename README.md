@@ -1,6 +1,8 @@
 # MiniSeller
 
-MiniSeller is a small, end-to-end frontend application that simulates a lightweight e-commerce experience. The goal of the project is not only to implement features, but to demonstrate how I approach real-world product development: clear architecture, predictable state, and a strong focus on maintainability and user experience.
+MiniSeller is a small, end-to-end frontend application that simulates a lightweight e-commerce experience.
+
+Rather than focusing on feature volume, this project demonstrates how I approach real-world product development: clear architecture, predictable state management, and thoughtful UX decisions, all with an emphasis on maintainability and long-term ownership.
 
 ---
 
@@ -23,16 +25,16 @@ MiniSeller is a small, end-to-end frontend application that simulates a lightwei
 
 ---
 
-## 🏗 Architecture & Decisions
+🏗 Architecture & Decisions
 
-The application is structured around a few core principles:
+The application is structured around a few core principles commonly applied in production systems:
 
-* **Predictable state management**: state is colocated where it makes sense and derived data is calculated explicitly.
-* **Separation of concerns**: UI components focus on rendering, while business logic is kept isolated and reusable.
-* **Readable components**: components are intentionally small and named after what they do, not how they do it.
-* **Minimal dependencies**: only tools that provide clear value are included.
+- Predictable state management: state is colocated where it naturally belongs, while derived data (totals, quantities) is calculated explicitly to avoid hidden coupling.
+- Clear separation of concerns: UI components focus on rendering and interaction, while business logic is isolated and reusable.
+- Readable, intention-revealing components: components are kept small and named after *what* they do, not *how* they do it.
+- Minimal dependencies: only tools that provide clear, immediate value are included, avoiding unnecessary abstractions.
 
-This mirrors how I would structure a production codebase that needs to be understood and maintained by multiple engineers over time.
+This mirrors how I would design a codebase meant to scale in complexity while remaining approachable to multiple engineers over time.
 
 ---
 
@@ -71,11 +73,11 @@ npm run dev
 
 MiniSeller reflects how I think about frontend engineering:
 
-* Shipping code that is easy to reason about
-* Treating UX details (loading, empty states, feedback) as first-class concerns
-* Writing code that I would feel comfortable owning long-term
+- Shipping code that is easy to reason about and modify
+- Treating UX details (loading, empty states, feedback) as first-class concerns
+- Writing software I would feel comfortable owning, evolving, and supporting long-term
 
-While the scope is intentionally small, the mindset is the same one I bring to large, production systems.
+While the scope is intentionally small, the engineering mindset is the same one I bring to large, production systems.
 
 ---
 
